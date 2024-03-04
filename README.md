@@ -1,12 +1,12 @@
 # Homestay Project
 
-民宿網站
+使用React Query和Supabase建造的民宿網站
 
 # 使用技術
 
 React Router <br/>
-Styled-components 5.3.10 <br/>
-React Query <br/>
+Styled-components 6.1.8 <br/>
+React Query v4 <br/>
 React Hook Form <br/>
 Supabase 
 
